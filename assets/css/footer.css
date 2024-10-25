@@ -1,0 +1,22 @@
+footer{
+  border-top: 1px solid;
+  border-color: rgba(20, 114, 183, 1);
+  background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+  display: flex;
+  flex-direction: column;
+}
+
+footer img{
+  width: 310px;
+  margin: 60px auto 0px;
+}
+
+footer p{
+  margin: 10px auto 60px;
+}
+
+footer a{
+  color: #33a8db;
+  text-decoration: none;
+  font-weight: 700;
+}

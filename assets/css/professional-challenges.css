@@ -1,0 +1,36 @@
+#professional-challenges {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: auto;
+  border-top: 1px solid;
+  border-color: rgba(20, 114, 183, 1);
+}
+
+#professional-challenges h2 {
+  margin-top: 76px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50ch;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1, 175;
+  letter-spacing: 0.19em;
+  text-transform: uppercase;
+  color: rgba(51, 168, 219, 1);
+}
+
+#professional-challenges img {
+  width: 659px;
+  margin: 32px auto;
+}
+
+#professional-challenges p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1,17;
+  text-align: center;
+  margin: 0px auto;
+  max-width: 792px;
+  margin-bottom: 76px;
+}
